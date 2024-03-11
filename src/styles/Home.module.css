@@ -1,0 +1,19 @@
+.controls {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+}
+
+.canvas {
+    border: 2px dashed #343a40 !important;
+    border-radius: 10px;
+}
+
+.text-element {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-element {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

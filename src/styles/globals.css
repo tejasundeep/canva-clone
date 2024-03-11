@@ -1,0 +1,4 @@
+.text-element {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
